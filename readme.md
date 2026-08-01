@@ -4,7 +4,7 @@ A desktop TCP port scanner with a GUI. Built with Python and Tkinter. No externa
 
 You point it at a host, give it a port range, and it tells you what's open.
 
-> **Author:** LordCarvell
+> **Author:** JCarvell67
 
 ---
 
