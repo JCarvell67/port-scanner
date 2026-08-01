@@ -39,7 +39,7 @@ sudo apt install python3-tk
 Clone the repo or just download `main.py` on its own.
 
 ```
-git clone https://github.com/LordCarvell/port-scanner.git
+git clone https://github.com/JCarvell67/port-scanner.git
 cd port-scanner
 ```
 
